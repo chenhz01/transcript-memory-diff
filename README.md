@@ -4,6 +4,8 @@
 
 ---
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Long-running agents accumulate knowledge: decisions, constraints, root causes, user preferences. Two failure modes dominate how that knowledge is (not) captured:
